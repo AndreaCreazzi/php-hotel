@@ -57,7 +57,7 @@ $showOnlyParking = isset($_GET['parkingFilter']) && $_GET['parkingFilter'] === '
 </head>
 </head>
 
-<body>
+<body class="bg-dark">
     <div class="container mt-2">
         <h1 class="text-white text-center mb-4">Hotel</h1>
         <form class="mb-4">
